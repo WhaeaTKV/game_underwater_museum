@@ -6,6 +6,9 @@
 [ext_resource type="PackedScene" uid="uid://dtrp1gcf2hifv" path="res://enemy_test.tscn" id="3_hn12h"]
 [ext_resource type="PackedScene" uid="uid://bl37dpf62yw22" path="res://tilemap.tscn" id="4_ihfcg"]
 [ext_resource type="PackedScene" uid="uid://7c8gtk6ilriw" path="res://hud.tscn" id="7_j7kpp"]
+[ext_resource type="PackedScene" path="res://object_jellyfish_tank.tscn" id="2_bjebc"]
+[ext_resource type="PackedScene" path="res://object_shell.tscn" id="1_5hph3"]
+[ext_resource type="PackedScene" path="res://object_clam.tscn" id="1_rka8t"]
 
 [sub_resource type="GDScript" id="GDScript_j7kpp"]
 script/source = "extends Node
